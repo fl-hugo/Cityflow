@@ -137,7 +137,3 @@ Pour supprimer les volumes et repartir de zéro :
 ```bash
 docker compose down -v
 ```
-
-## Captures d'écran
-
-À compléter après validation du projet.
