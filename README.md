@@ -137,3 +137,6 @@ Pour supprimer les volumes et repartir de zéro :
 ```bash
 docker compose down -v
 ```
+
+## Auteur
+Développé par **Hugo Flandrin** dans le cadre d'un projet d'apprentissage du NoSQL à **Ynov Lyon**
